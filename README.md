@@ -1,1 +1,2 @@
-# CIS106---Cristian-Reyes
+Cristian Reyes
+I am majoring in Accounting, and I think learning Python will be really useful for my future career. Knowing how to program can help me look at financial data more easily, automate repetitive tasks, and handle more information that would be hard to do by hand. By learning Python, I hope that my accounting skills and technology will become more efficient and stand out in the workplace.
